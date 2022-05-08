@@ -46,20 +46,20 @@
 
 ## Imagens :
 
-![alt text](https://github.com/lucianonevesln/python-api-cadastro/blob/main/static/Screenshot_1.png)
+![alt text](https://github.com/lucianonevesln/python-api-estudo/blob/main/static/Screenshot_1.png)
 
-![alt text](https://github.com/lucianonevesln/python-api-cadastro/blob/main/static/Screenshot_2.png)
+![alt text](https://github.com/lucianonevesln/python-api-estudo/blob/main/static/Screenshot_2.png)
 
-![alt text](https://github.com/lucianonevesln/python-api-cadastro/blob/main/static/Screenshot_3.png)
+![alt text](https://github.com/lucianonevesln/python-api-estudo/blob/main/static/Screenshot_3.png)
 
-![alt text](https://github.com/lucianonevesln/python-api-cadastro/blob/main/static/Screenshot_4.png)
+![alt text](https://github.com/lucianonevesln/python-api-estudo/blob/main/static/Screenshot_4.png)
 
-![alt text](https://github.com/lucianonevesln/python-api-cadastro/blob/main/static/Screenshot_5.png)
+![alt text](https://github.com/lucianonevesln/python-api-estudo/blob/main/static/Screenshot_5.png)
 
-![alt text](https://github.com/lucianonevesln/python-api-cadastro/blob/main/static/Screenshot_6.png)
+![alt text](https://github.com/lucianonevesln/python-api-estudo/blob/main/static/Screenshot_6.png)
 
-![alt text](https://github.com/lucianonevesln/python-api-cadastro/blob/main/static/Screenshot_7.png)
+![alt text](https://github.com/lucianonevesln/python-api-estudo/blob/main/static/Screenshot_7.png)
 
-![alt text](https://github.com/lucianonevesln/python-api-cadastro/blob/main/static/Screenshot_8.png)
+![alt text](https://github.com/lucianonevesln/python-api-estudo/blob/main/static/Screenshot_8.png)
 
-![alt text](https://github.com/lucianonevesln/python-api-cadastro/blob/main/static/Screenshot_9.png)
+![alt text](https://github.com/lucianonevesln/python-api-estudo/blob/main/static/Screenshot_9.png)
