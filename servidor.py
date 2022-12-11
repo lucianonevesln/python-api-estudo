@@ -1,3 +1,4 @@
+from config import *
 # Flask : necessario para criar rotas da api;
 # Response : necessario para criar o retorno da api;
 # request : necessario para interagir com o body enviado pelo cliente.
@@ -17,7 +18,7 @@ app = Flask(__name__)
 # Obs: se a senha tiver algum caracter especial, deve ser inserido parametro
 # charset.
 app.config['SQLALCHEMY_TRACK_MODIFICATIONS'] = True
-app.config['SQLALCHEMY_DATABASE_URI'] = 'mysql://*****:*****@*****/*****?charset=utf8mb4'
+app.config['SQLALCHEMY_DATABASE_URI'] = f'mysql://{USER}:{PASS}@{DB_URL}/{DB}?charset=utf8mb4'
 
 # Criando a classe SQLAlchemy e automatizando a conexao.
 db = SQLAlchemy(app)
